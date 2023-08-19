@@ -47,5 +47,3 @@
 <a href="https://www.instagram.com/dsiiik.og/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/gustavo-muniz-95339a289/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 </p>
-
-![snake gif]([https://https://github.com/dessiiik/dessiiik/]/blob/output/github-contribution-grid-snake.svg)
