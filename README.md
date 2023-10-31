@@ -5,7 +5,7 @@
 
 
 
-# Hello There 👋, I'm Fuckk 🧑‍💻
+# Hello There 👋, I'm Fuckkgu 🧑‍💻
 
 <!-- Background -->
 
