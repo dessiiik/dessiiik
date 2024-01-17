@@ -15,7 +15,7 @@
 
 ## **Overview 👉**
 
-<p>Hello, I'm Dsiiik, Full Stack software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.</p>
+<p>Hello, I'm Gustavo, Full Stack software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.</p>
 
 <br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b><b>"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
