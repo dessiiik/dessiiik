@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/dessiiik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessiiik&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g.fckk&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <br><br>
 
@@ -41,6 +41,6 @@
 ## **Connect with me 👇**
 
 <p align="center">
-<a href="https://www.instagram.com/fuckkgu/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
+<a href="https://www.instagram.com/g.fckk/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/gustavo-muniz-95339a289/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 </p>
